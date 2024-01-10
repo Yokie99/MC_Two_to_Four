@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPZ/5VsmW7egilv6GjgGrEgbUeAYWl0k3Ig0FdE/Ph9DVW/WfBLd8m8tFew5NU05Zc8j1LZh8LYgvwg/CrlsgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yokie's PC\\Documents\\CodeStack\\Level 2\\Projects\\MC_Two_to_Four\\MC_Two_to_Four.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Yokie's PC\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
